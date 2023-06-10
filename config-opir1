@@ -7,7 +7,7 @@ CONFIG_HAVE_DOT_CONFIG=y
 CONFIG_HOST_OS_LINUX=y
 # CONFIG_HOST_OS_MACOS is not set
 CONFIG_TARGET_sunxi=y
-# CONFIG_TARGET_apm821xx is not set
+# CONFIG_TARGET_apm821xx
 # CONFIG_TARGET_ath25 is not set
 # CONFIG_TARGET_ath79 is not set
 # CONFIG_TARGET_bcm27xx is not set
