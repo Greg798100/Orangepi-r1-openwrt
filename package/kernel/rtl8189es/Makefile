@@ -5,16 +5,17 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=rtl8189es
-PKG_RELEASE:=3
+PKG_RELEASE:=2
 
-PKG_SOURCE_URL:=https://github.com/jwrdegoede/rtl8189ES_linux.git
+PKG_LICENSE:=GPLv2
+PKG_LICENSE_FILES:=
+
+PKG_SOURCE_URL:=https://github.com/Greg798100/rtl8189es.git
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_DATE:=2022-10-30
-PKG_SOURCE_VERSION:=e58bd86c9d9408c648b1246a0dd76b16856ec172
-PKG_MIRROR_HASH:=1e4acfd7d1f1f2490b6778068f97e7a63b81575dffd98c93e84cecb287e2c7ad
+PKG_SOURCE_VERSION:=openwrt-22.03.5
 
 PKG_MAINTAINER:=Hauke Mehrtens <hauke@hauke-m.de>
-PKG_BUILD_PARALLEL:=1
 
 STAMP_CONFIGURED_DEPENDS := $(STAGING_DIR)/usr/include/mac80211-backport/backport/autoconf.h
 
