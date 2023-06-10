@@ -14,6 +14,6 @@ $ make -j5 V=-1sc
 ```
 ### Many thanks community
 - [Openwrt](https://github.com/openwrt/openwrt)
-- [Immortalwrt](https://github.com/immortalwrt/immortalwrt) https://github.com/jwrdegoede/rtl8189ES_linux
+- [Immortalwrt](https://github.com/immortalwrt/immortalwrt)
 - [Jwrdegoede](https://github.com/jwrdegoede/rtl8189ES_linux)
 <h4 align="left">and other</h4>
