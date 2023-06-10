@@ -12,7 +12,7 @@ PKG_LICENSE_FILES:=
 
 PKG_SOURCE_URL:=https://github.com/Greg798100/rtl8189es.git
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_DATE:=2022-10-30
+PKG_SOURCE_DATE:=2023-06-10
 PKG_SOURCE_VERSION:=openwrt-22.03.5
 
 PKG_MAINTAINER:=Hauke Mehrtens <hauke@hauke-m.de>
