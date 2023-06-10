@@ -12,3 +12,4 @@ $ ./scripts/feeds install -a
 $ make menuconfig
 $ make -j5 V=-1sc
 ```
+- [OpenWrt Routing](https://github.com/openwrt/routing): Packages specifically focused on (mesh) routing.
