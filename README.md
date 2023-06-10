@@ -1,6 +1,6 @@
 <h3 align="left">openwrt 22.03.5 for orangepi r1 worked rtl8189es ap and client</h3>
 
-<h3 align="left">how build</h3>
+<h2 align="left">how build</h2>
 
 ```sh
 $ git clone https://github.com/Greg798100/Orangepi-r1-openwrt.git
