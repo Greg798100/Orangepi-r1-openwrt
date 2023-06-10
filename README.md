@@ -12,8 +12,8 @@ $ ./scripts/feeds install -a
 $ make menuconfig
 $ make -j5 V=-1sc
 ```
-- [OpenWrt Routing](https://github.com/openwrt/routing): Packages specifically focused on (mesh) routing.
 ### Many thanks community
-- [immortalwrt](https://github.com/immortalwrt/immortalwrt)
+- [Openwrt](https://github.com/openwrt/openwrt)
+- [Immortalwrt](https://github.com/immortalwrt/immortalwrt)
   - Support Chat: group [@ctcgfw_openwrt_discuss](https://t.me/ctcgfw_openwrt_discuss) on [Telegram](https://telegram.org/).
   - Support Chat: group [#immortalwrt](https://matrix.to/#/#immortalwrt:matrix.org) on [Matrix](https://matrix.org/).
